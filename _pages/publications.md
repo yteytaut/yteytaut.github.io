@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Link to my personal [Google scholar page](https://scholar.google.com/citations?hl=fr&authuser=2&user=NfT1P1kAAAAJ)   
 
-{% include base_path %}
+## 2021
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Teytaut, Y.** and Roebel, A. [*Phoneme-to-audio alignment with recurrent neural networks for speaking and singing voice*](https://www.isca-speech.org/archive/pdfs/interspeech_2021/teytaut21_interspeech.pdf), Proc. Interspeech 2021, 61-65, doi: 10.21437/Interspeech.2021-1676 (2021).
+
