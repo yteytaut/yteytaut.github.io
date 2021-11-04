@@ -11,20 +11,20 @@ In addition to my PhD research activities, I take part in several courses at [Po
 
 ## Algorithmic and Computer Science
 
-## C Language Programming 
+### C Language Programming 
 
-## Multidisciplinary Physical Modeling Project 
+### Multidisciplinary Physical Modeling Project 
 
-## Sound and Music Signal Processing
+### Sound and Music Signal Processing
 
 # 2020--2021
 
-## General Computer Sciences 
+### General Computer Sciences 
 
-## Multidisciplinary Physical Modeling Project 
+### Multidisciplinary Physical Modeling Project 
 
-## Sound and Music Signal Processing
+### Sound and Music Signal Processing
 
 # 2019--2020
 
-## Computer Programming Basics 
+### Computer Programming Basics 
