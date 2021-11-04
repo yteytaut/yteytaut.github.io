@@ -9,7 +9,7 @@ In addition to my PhD research activities, I take part in several courses at [Po
 
 # 2021--2022
 
-## Algorithmic and Computer Science
+### Algorithmic and Informatics
 
 ### C Language Programming 
 
@@ -19,7 +19,7 @@ In addition to my PhD research activities, I take part in several courses at [Po
 
 # 2020--2021
 
-### General Computer Sciences 
+### General Informatics
 
 ### Multidisciplinary Physical Modeling Project 
 
