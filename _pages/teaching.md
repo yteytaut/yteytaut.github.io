@@ -51,7 +51,7 @@ See 2021--2022.
 
 ### Computer programming basics (L2/40h)
 
-Students: [PEIP](https://www.polytech.sorbonne-universite.fr/formations/cycle-preparatoire-peip-b) (Polytech Sorbonne)
+Students: [PEIP](https://www.polytech.sorbonne-universite.fr/formations/cycle-preparatoire-peip-b) (Polytech Sorbonne)  
 Intervention: 20h tutorials + 20h practical work
 
 This module, taught to students in preparatory class, proposed an introduction to computer science through algorithmic and C programming lessons. 
