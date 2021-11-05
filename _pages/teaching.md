@@ -12,6 +12,7 @@ In addition to my PhD research activities, I am involved in several courses at [
 ### Algorithmic and C language (L3-40h)
 
 Students: [EI2I](https://www.polytech.sorbonne-universite.fr/formations/electronique-informatique-parcours-informatique-industrielle) (Polytech Sorbonne)
+
 Intervention: 4h lectures + 4h tutorials + 32h practical work
 
 This module is dedicated to first-year engineering students and aims to transfer knowledge on algorithmic and programming in C language. Lectures given on functions as well as structures in C.
@@ -19,6 +20,7 @@ This module is dedicated to first-year engineering students and aims to transfer
 ### Multidisciplinary physical modeling project (L3/15h)
 
 Students: [MAIN](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) (Polytech Sorbonne)
+
 Intervention: 15h tutorials + project supervision
 
 The goal of this class is to present a physical or biological phenomenon to students that they will need to discover, get familiar with and understand in order to study it through modeling and simulation. Project: discretisation (« meshing ») of the wave equation for modeling vibrations of string instruments.
@@ -26,6 +28,7 @@ The goal of this class is to present a physical or biological phenomenon to stud
 ### Sound and music signal processing (M1/16h)
 
 Students: []() (Sorbonne Université)
+
 Intervention: 16h practical work
 
 In this course, students were asked to put in practice their knowledge of basic sound and audio signal processing including, but not limited to, (re)sampling, quantification, Short-Time Fourier Transform, signal analysis, etc. 
@@ -35,6 +38,7 @@ In this course, students were asked to put in practice their knowledge of basic 
 ### General computer science (L3/40h)
 
 Students: [AGRAL](https://www.polytech.sorbonne-universite.fr/formations/agroalimentaire) and [MTX](https://www.polytech.sorbonne-universite.fr/formations/materiaux) (Polytech Sorbonne)
+
 Intervention: 40h practical work + project writing
 
 This teaching unit aims to provide the computer science basics enabling non-specialist (food-processing and materials chemistry) students to fully develop, code and manipulate programming language on their own. The course is Python-based. Proposition of the class project: design of a simple musical recommandation system.
