@@ -12,5 +12,5 @@ I am a PhD candidate in sound/music processing and deep learning applied to sing
 
 I'm also teaching tutorials, practical works and a few lectures in computer science and sound signal processing at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) and [Sorbonne Université](https://www.sorbonne-universite.fr/).
 
-I graduated with a M.Res. in Acoustics, Signal processing and Informatics Applied to Music ([ATIAM](https:/www.atiam.ircam.fr)) from [Sorbonne Université](https://www.sorbonne-universite.fr/) in 2019, M.Eng. in Optical computing and image processing from the [Institut d'Optique Graduate School](https://www.institutoptique.fr/) and M.Sc. in Computer science for image and sound from [Bordeaux Université](https://www.u-bordeaux.fr/) in 2018.
+I graduated with a M.Res. in Acoustics, Signal processing and Informatics Applied to Music ([ATIAM](https:/www.atiam.ircam.fr)) from [Sorbonne Université](https://www.sorbonne-universite.fr/) in 2019, a M.Eng. in Optical computing and image processing from the [Institut d'Optique Graduate School](https://www.institutoptique.fr/) and a M.Sc. in Computer science for image and sound from [Bordeaux Université](https://www.u-bordeaux.fr/) in 2018.
 
