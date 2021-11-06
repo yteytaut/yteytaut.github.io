@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-In addition to my PhD research activities, I am involved in several courses at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) and [Sorbonne Université](https://www.sorbonne-universite.fr/). I am teaching computer science (C and Python programming), physical modeling and sound/music processing modules to undergraduate students from L2 to M1.
+In addition to my PhD research activities, I am involved in several courses at both [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) and [Sorbonne Université](https://www.sorbonne-universite.fr/). I am teaching computer science (C and Python programming), physical modeling and sound/music processing modules to undergraduate students from L2 to M1.
 
 # 2021--2022
 
