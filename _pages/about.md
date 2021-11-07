@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yann Teytaut"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,3 +13,16 @@ I am a PhD candidate in sound/music processing and deep learning applied to sing
 My work interests are mainly focused on voice alignment and singing style analysis for both research and musicological applications. See the [**ARS**](https://ars.ircam.fr/) (**A**nalysis and t**R**ansformation of **S**inging style) project webpage.
 
 I'm also teaching tutorials, practical works and a few lectures in computer science and sound signal processing at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) and [Sorbonne Université](https://www.sorbonne-universite.fr/).
+  
+  
+  
+> Yann TEYTAUT  
+> teytaut@ircam.fr  
+
+> IRCAM - Analysis/Synthesis Team  
+> 1 Place Igor Stravinsky  
+> 75004, Paris  
+
+> Sorbonne Université  
+> 4, Place Jussieu  
+> 75005, Paris  
