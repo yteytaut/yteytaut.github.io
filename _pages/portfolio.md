@@ -18,12 +18,14 @@ author_profile: true
 Deep learning applied to audio, speech and singing processing.
 * **Music Research Resident**, [Ante𝄞cofo](https://www.antescofo.com/en/), 2019--2020  
 Musical activity detection for real-time score following.
+
 * **Software Engineer**, [Thermo Fisher Scientific](https://www.thermofisher.com/es/es/home.html), 2018 (6-month internship)   
 Human-in-the-loop UX and UI developement in C++ for the "Animation Director" tool in Avizo.
 * **Image Processing Engineer**, [Thaï Glass Industry](https://www.thaiglass.co.th/en/index2.php), 2017 (4-month internship)  
-Implementation of graphic interfaces and image processing algorithms for automatic large-scale quality control of glass.
+Implementation image processing algorithms and interfaces for automatic large-scale quality control of glass bottles.
 * **Optical Design Engineer**, [Observatoire Midi-Pyrénées](https://www.omp.eu/), 2016 (2-month internship)  
-Assistance for optical, thermal and mechanical aspects of the spectropolarimeter Neo-Narval.
+Assistance in optical, thermal and mechanical design of the spectropolarimeter Neo-Narval.
 
 ## Volunteerism
 
+* **Tutor / Mentoring engagement**, [ZUPdeCO](https://zupdeco.org/), 2015--2016  
