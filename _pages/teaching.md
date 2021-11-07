@@ -25,7 +25,7 @@ The goal of this class is to present a physical or biological phenomenon to stud
 
 ### Sound and music signal processing (M1/16h)
 
-Students: []() (Sorbonne Université)  
+Students: [ACOUS](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-de-mecanique/parcours-acoustique) and [ISI](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-automatique-robotique/parcours-ingenierie-des-systemes) (Sorbonne Université)  
 Intervention: 16h practical work
 
 In this course, students were asked to put in practice their knowledge of basic sound and audio signal processing including, but not limited to, (re)sampling, quantification, Short-Time Fourier Transform, signal analysis, etc. 
