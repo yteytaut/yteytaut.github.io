@@ -8,7 +8,7 @@ author_profile: true
 ## Education
 
 
-* **M.Res.** in _Acoustics, Signal processing and Informatics Applied to Music_ ([ATIAM](https:/www.atiam.ircam.fr)), [Sorbonne Université](https://www.sorbonne-universite.fr/), 2019
+* **M.Res.** in _Acoustics, Signal processing and Informatics Applied to Music_ ([ATIAM](https://www.atiam.ircam.fr)), [Sorbonne Université](https://www.sorbonne-universite.fr/), 2019
 * **M.Eng.** in _Optical computing and image processing_, [Institut d'Optique Graduate School](https://www.institutoptique.fr/), 2018
 * **M.Sc.** in _Computer science for image and sound_, [Bordeaux Université](https://www.u-bordeaux.fr/), 2018.
 
