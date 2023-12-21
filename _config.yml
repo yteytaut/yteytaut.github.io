@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yann Teytaut"
 title_separator          : "-"
 name                     : &name "Yann Teytaut"
-description              : &description "PhD Candidate in voice processing"
+description              : &description "PhD | Ecoacoustician & voice researcher"
 url                      : https://yteytaut.github.io 
 baseurl                  : 
 repository               : "yteytaut/yteytaut.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yann Teytaut"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in voice processing"
-  location         : "Ircam - Paris, France"
+  bio              : "Ecoacoustician Post-Doctoral Researcher"
+  location         : "MNHN - Paris, France"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=fr&authuser=2&user=NfT1P1kAAAAJ"
-  email            : "yann.teytaut@atiam.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=Pjfd9WwAAAAJ&hl=fr"
+  email            : "yann.teytaut@mnhn.fr"
   researchgate     : 
   uri              :
   bitbucket        :
