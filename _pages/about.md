@@ -8,21 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in sound/music processing and deep learning applied to singing and speech. I work at [Ircam](https://www.ircam.fr/) (Institute for Research and Coordination in Acoustics/Music) as part of the [Sound Analysis/Synthesis](http://anasynth.ircam.fr/home/) team.
+Keywords:
+• Ecoacoustician Post-Doc (MNHN) 🌿🎧 
+• AI/Voice/Audio Researcher 🗣️🔊 
+• PhD in Computer Music (IRCAM) 💻🎵 
+• Optical Engineer (IOGS) 👨‍💻🔭 
+• Science Teacher 📚🎓
 
-My work interests are mainly focused on voice alignment and singing style analysis for both research and musicological applications. See the [**ARS**](https://ars.ircam.fr/) (**A**nalysis and t**R**ansformation of **S**inging style) project webpage.
+I am a post-doctoral researcher in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/) with a research focus on automatic soundscape analysis with deep learning.
 
-I'm also teaching tutorials, practical works and a few lectures in computer science and sound signal processing at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) and [Sorbonne Université](https://www.sorbonne-universite.fr/).
-  
+I hold a PhD in sound processing/computer music following my thesis work at [Ircam](https://www.ircam.fr/) (Institute for Research and Coordination in Acoustics/Music) on temporal constraints for speech and singing voice transcription and alignment.
+
+My work interests cover a broad range of audio applications including voice alignment, music transcription, music information retrieval, bioacoustics and ecoacoustics, musicological musicology and, more generaly, computer music.
+
+I also teach tutorials, practical works and lectures in computer science, sound signal processing and geometrical optics in diverse institutes such as [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/) and [Ecole Nationale Superieure Louis Lumière](https://www.ens-louis-lumiere.fr/formations/formation-initiale/master-photographie/).
   
   
 > Yann TEYTAUT  
-> teytaut@ircam.fr  
+> yann.teytaut@mnhn.fr  
 
-> IRCAM - Analysis/Synthesis Team  
-> 1 Place Igor Stravinsky  
-> 75004, Paris  
+> Muséum National d'Histoire Naturelle (MNHN)
+> Origines & Evolution
+> UMR 7205 ISYEB
+> 43, Rue Buffon
+> 75005, Paris
 
-> Sorbonne Université  
+> Sorbonne Center for Artificial Intelligence (SCAI)
 > 4, Place Jussieu  
 > 75005, Paris  
