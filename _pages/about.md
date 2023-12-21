@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+\
 Keywords: \
 • Ecoacoustician Post-Doc (MNHN) 🌿🎧  \
-• AI/Voice/Audio Researcher 🗣️🔊  \ 
+• AI/Voice/Audio Researcher 🗣️🔊 \
 • PhD in Computer Music (IRCAM) 💻🎵  \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
 • Science Teacher 📚🎓 
