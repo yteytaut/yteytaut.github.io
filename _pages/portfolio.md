@@ -25,7 +25,7 @@ Assistance in optical, thermal and mechanical design of the spectropolarimeter N
 
 ## 🧑‍🎓 Education
 
-
+* **Ph.D.** in _Music Informatics_ [Ircam](https://www.atiam.ircam.fr)-[Sorbonne Université](https://www.sorbonne-universite.fr/), 2023
 * **M.Res.** in _Acoustics, Signal processing and Informatics Applied to Music_ ([ATIAM](https://www.atiam.ircam.fr)), [Sorbonne Université](https://www.sorbonne-universite.fr/), 2019
 * **M.Eng.** in _Optical computing and image processing_, [Institut d'Optique Graduate School](https://www.institutoptique.fr/), 2018
 * **M.Sc.** in _Computer science for image and sound_, [Bordeaux Université](https://www.u-bordeaux.fr/), 2018.
