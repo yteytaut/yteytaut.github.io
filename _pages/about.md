@@ -22,7 +22,7 @@ I am currently a post-doctoral research fellow in ecoacoustics at the [Muséum N
 
 I earned my Ph.D. in voice processing and computer music from [Ircam](https://www.ircam.fr/)-[Sorbonne Université](https://www.sorbonne-universite.fr/)  with a research focused on temporal constraints for speech and singing voice alignment and transcription.
 
-My work interests cover a broad range of audio applications including voice alignment, music transcription, music information retrieval, bioacoustics and ecoacoustics, musicological musicology and, more generaly, computer music.
+My work interests cover a broad range of audio applications including voice alignment, symbolic transcription, music information retrieval, bioacoustics and ecoacoustics, musicological musicology and, more generaly, computer music.
 
 I have teached tutorials, practical works and lectures in computer science, signal processing and optics in various institutes such as [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/) and [Ecole Nationale Supérieure Louis Lumière](https://www.ens-louis-lumiere.fr/formations/formation-initiale/master-photographie/).
 
