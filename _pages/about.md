@@ -15,13 +15,15 @@ Keywords: \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
 • Science Teacher 📚🎓 
 
-I am a post-doctoral researcher in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/) with a research focus on automatic soundscape analysis with deep learning.
+Hello world! I am a engineer, scientist and researcher applying machine/deep learning techniques to the audio domain from voice sequences to natural soundscapes. 
 
-I hold a PhD in sound processing/computer music following my thesis work at [Ircam](https://www.ircam.fr/) (Institute for Research and Coordination in Acoustics/Music) on temporal constraints for speech and singing voice transcription and alignment.
+I am currently a post-doctoral research fellow in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/), working on automatic soundscape analysis with semi-supervised/unsupervised learning tools. I am also affiliated with the [Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr/), in charge of creating new teaching material to promote artificial intelligence.  
+
+I earned my Ph.D. in voice processing and computer music from [Ircam](https://www.ircam.fr/)-[Sorbonne Université](https://www.sorbonne-universite.fr/)  with a research focused on temporal constraints for speech and singing voice alignment and transcription.
 
 My work interests cover a broad range of audio applications including voice alignment, music transcription, music information retrieval, bioacoustics and ecoacoustics, musicological musicology and, more generaly, computer music.
 
-I also teach tutorials, practical works and lectures in computer science, sound signal processing and geometrical optics in diverse institutes such as [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/) and [Ecole Nationale Superieure Louis Lumière](https://www.ens-louis-lumiere.fr/formations/formation-initiale/master-photographie/).
+I have teached tutorials, practical works and lectures in computer science, signal processing and optics in various institutes such as [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/) and [Ecole Nationale Supérieure Louis Lumière](https://www.ens-louis-lumiere.fr/formations/formation-initiale/master-photographie/).
 
 Please feel free to reach out 🙂 
 
@@ -33,7 +35,7 @@ Please feel free to reach out 🙂
 > Muséum National d'Histoire Naturelle (MNHN) \
 > Origines & Evolution \
 > UMR 7205 ISYEB \
-> 43, Rue Buffon \
+> 45, Rue Buffon \
 > 75005, Paris
 
 🎓 
