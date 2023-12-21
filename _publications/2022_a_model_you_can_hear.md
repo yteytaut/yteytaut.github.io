@@ -2,7 +2,7 @@
 title: "A Model You Can Hear: Audio Identification with Playable Prototypes"
 collection: publications
 permalink: /publication/2022-a-model-you-can-hear.md
-date: 2021-08-30
+date: 2022-12-04
 venue: 'ISMIR 2022 Bengaluru, India)'
 paperurl: '/files/pdf/loiseau22_ismir.pdf'
 link: 'https://romainloiseau.fr/a-model-you-can-hear/'
