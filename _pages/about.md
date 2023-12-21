@@ -13,7 +13,7 @@ Keywords: \
 • AI/Voice/Audio Researcher 🗣️🔊  \
 • PhD in Computer Music (IRCAM) 💻🎵  \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
-• Science Teacher 📚🎓 \
+• Science Teacher 📚🎓 
 
 I am a post-doctoral researcher in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/) with a research focus on automatic soundscape analysis with deep learning.
 
