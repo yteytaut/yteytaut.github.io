@@ -16,15 +16,15 @@ table {
 }
 
 thead {
-  background-color: $lighter-gray;
-  border-bottom: 1px solid $light-gray;
+  background-color: mix(#fff, #FFE0B2, 50%);
+  border-bottom: 1px solid mix(#000, #FFE0B2, 50%);;
 }
 
 th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  border-right: 1px solid $fff;
 }
 
 td {
