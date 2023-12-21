@@ -10,7 +10,7 @@ redirect_from:
 
 Keywords: \
 • Ecoacoustician Post-Doc (MNHN) 🌿🎧  \
-• AI/Voice/Audio Researcher 🗣️🔊  \
+• AI/Voice/Audio Researcher 🗣️🔊  \ 
 • PhD in Computer Music (IRCAM) 💻🎵  \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
 • Science Teacher 📚🎓 
