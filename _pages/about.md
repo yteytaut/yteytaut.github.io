@@ -18,9 +18,9 @@ Keywords: \
 
 Hello world! I am an engineer, scientist and researcher applying machine/deep learning techniques to the audio domain from voice sequences to natural soundscapes. 
 
-I am currently a post-doctoral research fellow in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/), working on automatic soundscape analysis with semi-supervised/unsupervised learning tools. I am also affiliated with the [Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr/), in charge of creating new teaching material to promote artificial intelligence.  
+I am currently a post-doctoral research fellow in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/) (MNHN), working on automatic soundscape analysis with semi-supervised/unsupervised learning tools. I am also affiliated with the [Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr/) (SCAI), in charge of creating new teaching materials to promote artificial intelligence.  
 
-I earned my Ph.D. in voice processing and computer music from [Ircam](https://www.ircam.fr/)-[Sorbonne Université](https://www.sorbonne-universite.fr/)  with a research focused on temporal constraints for speech/singing voice alignment and transcription.
+I hold a Ph.D. in voice processing and computer music from [Ircam](https://www.ircam.fr/)-[Sorbonne Université](https://www.sorbonne-universite.fr/)  with a research focused on temporal constraints for speech/singing voice alignment and transcription.
 
 My work interests cover a broad range of audio applications including voice alignment, symbolic transcription, music information retrieval, bioacoustics and ecoacoustics, musicological musicology and, more generally, computer music.
 
