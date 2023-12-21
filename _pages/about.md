@@ -15,7 +15,7 @@ Keywords: \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
 • Science Teacher 📚🎓 
 
-Hello world! I am a engineer, scientist and researcher applying machine/deep learning techniques to the audio domain from voice sequences to natural soundscapes. 
+Hello world! I am an engineer, scientist and researcher applying machine/deep learning techniques to the audio domain from voice sequences to natural soundscapes. 
 
 I am currently a post-doctoral research fellow in ecoacoustics at the [Muséum National d'Histoire Naturelle](https://www.mnhn.fr/), working on automatic soundscape analysis with semi-supervised/unsupervised learning tools. I am also affiliated with the [Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr/), in charge of creating new teaching material to promote artificial intelligence.  
 
