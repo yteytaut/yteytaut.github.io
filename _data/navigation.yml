@@ -10,3 +10,5 @@ main:
     url: /portfolio/
   - title: "Teaching"
     url: /teaching/
+  - title: "Music"
+    url: /music/
