@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-\
 Keywords: \
 • Ecoacoustician Post-Doc (MNHN) 🌿🎧  \
 • AI/Voice/Audio Researcher 🗣️🔊 \
 • PhD in Computer Music (IRCAM) 💻🎵  \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
-• Science Teacher 📚🎓 
+• Science Teacher 📚🎓 \
+• Guitar/Musical Choir 🎸🎤
 
 Hello world! I am an engineer, scientist and researcher applying machine/deep learning techniques to the audio domain from voice sequences to natural soundscapes. 
 
