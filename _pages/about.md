@@ -14,7 +14,7 @@ Keywords: \
 • PhD in Computer Music (IRCAM) 💻🎵  \
 • Optical Engineer (IOGS) 👨‍💻🔭  \
 • Science Teacher 📚🎓 \
-• Guitar/Musical Choir 🎸🎤
+• Classical Guitar/Musical Choir 🎸🎤
 
 Hello world! I am an engineer, scientist and researcher applying machine/deep learning techniques to the audio domain from voice sequences to natural soundscapes. 
 
