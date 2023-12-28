@@ -9,8 +9,8 @@ I am also a classical guitarist and vice-president of the mandolin orchestra [Pi
 
 More personally, I am passionate about Video Game Music (VGM), both from a compositional point of view and in terms of everyday listening, scientific analysis and even automatic generation.
 
-## Pizzicatis - _Une Nuit dans les Etoiles_ (D. Laheurte)
+## Pizzicatis - _Une nuit dans les étoiles_
 
-_"A night among the starts"_
+_"A night among the starts"_ composed by David Laheurte for Cello and Mandolin Orchestra. 
 
-{% include youtube.html id="O5RWUl_vZ9M" %}
+{% include youtube.html id="wfpEfmmUBjY" %}
