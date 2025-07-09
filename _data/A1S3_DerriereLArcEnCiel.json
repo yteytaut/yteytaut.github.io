@@ -1,0 +1,32 @@
+{
+  "corpus": {
+    "id": "salperwick",
+    "title": "🏝️🛶 Test Salperwick",
+    "description": "Algomus is testing the new dezrann-back during our *Journées au Vert*."
+  },
+  "pieces": {
+    "SOTR-yannteytaut": {
+      "opus": {
+        "title": "Over The Rainbow",
+        "contributors": {
+          "composer": "Edgar Yipsel/Harold Arlen"
+        }
+      },
+      "sources": [
+        {
+          "score": "https://drive.google.com/file/d/1ZYNuqKto2C_z3RTe4mVirR6_a5ncIp3T/view?usp=drive_link",
+          "name": "Over the rainbow - score"
+        },
+        {
+          "audio": "https://drive.google.com/file/d/1AVKpyM3YYgnoeqoLjLahkLp3-t3WDubH/view?usp=drive_link",
+          "name": "Over the rainbow - audio"
+        },
+          "year": "1939"
+        }
+      ]
+    }
+  },
+  "settings": {
+    "access": "public"
+  }
+}
